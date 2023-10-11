@@ -3,13 +3,9 @@ SEXVAR - Sex of Respondent
 GENHLTH - Would you say that in general your health is:
 PHYSHLTH - Now thinking about your physical health, which includes physical illness and injury, for how many days during the past 30 days was your physical health not good?
 MENTHLTH - Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many days during the past 30 days was your mental health not good?
-PRIMINSR - What is the current primary source of your health insurance?
-PERSDOC3 - Do you have one person or a group of doctors that you think of as your personal health care provider?
-MEDCOST1 - Was there a time in the past 12 months when you needed to see a doctor but could not because you could not afford it?
 CHECKUP1 - About how long has it been since you last visited a doctor for a routine checkup?
 EXERANY2 - During the past month, other than your regular job, did you participate in any physical activities or exercises such as running, calisthenics, golf, gardening, or walking for exercise?
 SLEPTIM1 - On average, how many hours of sleep do you get in a 24-hour period?
-LASTDEN4 - Including all types of dentists, such as orthodontists, oral surgeons, and all other dental specialists, as well as dental hygienists, how long has it been since you last visited a dentist or a dental clinic for any reason?
 RMVTETH4 - Not including teeth lost for injury or orthodontics, how many of your permanent teeth have been removed because of tooth decay or gum disease?
 CVDINFR4 - (Ever told) you had a heart attack, also called a myocardial infarction?
 CVDCRHD4 - (Ever told) (you had) angina or coronary heart disease?
@@ -21,13 +17,13 @@ ADDEPEV3 - (Ever told) (you had) a depressive disorder (including depression, ma
 CHCKDNY2 - Not including kidney stones, bladder infection or incontinence, were you ever told you had kidney disease?
 HAVARTH4 - (Ever told) (you had) some form of arthritis, rheumatoid arthritis, gout, lupus, or fibromyalgia?  (Arthritis diagnoses include: rheumatism, polymyalgia rheumatica; osteoarthritis (not osteporosis); tendonitis, bursitis, bunion, tennis elbow; carpal tunnel syndrome, tarsal tunnel syndrome; joint infection, etc.)
 DIABETE4 - (Ever told) (you had) diabetes?
-WEIGHT2 - About how much do you weigh without shoes?
 DEAF - Are you deaf or do you have serious difficulty hearing?
 BLIND - Are you blind or do you have serious difficulty seeing, even when wearing glasses?
 DECIDE - Because of a physical, mental, or emotional condition, do you have serious difficulty concentrating, remembering, or making decisions?
 DIFFWALK - Do you have serious difficulty walking or climbing stairs?
 DIFFDRES - Do you have difficulty dressing or bathing?
 DIFFALON - Because of a physical, mental, or emotional condition, do you have difficulty doing errands alone such as visiting a doctor´s office or shopping?
+_SMOKER3 - Four-level smoker status:  Everyday smoker, Someday smoker, Former smoker, Non-smoker
 ECIGNOW2 - Would you say you have never used e-cigarettes or other electronic vaping products in your entire life or now use them every day, use them some days, or used them in the past but do not currently use them at all?
 LCSCTSC1 - Have you ever had a CT or CAT scan of your chest area?
 _RACEGR4 - Five-level race/ethnicity category
@@ -35,6 +31,10 @@ _AGEG5YR - Fourteen-level age category
 HTM4 - Reported height in meters
 WTKG3 - Reported weight in kilograms
 _BMI5 - Body Mass Index (BMI)
-_SMOKER3 - Four-level smoker status:  Everyday smoker, Someday smoker, Former smoker, Non-smoker
 DRNKANY6 - Adults who reported having had at least one drink of alcohol in the past 30 days.
 _AIDTST4 - Adults who have ever been tested for HIV
+FLUSHOT7 - During the past 12 months, have you had either flu vaccine that was sprayed in your nose or flu shot injected into your arm?
+PNEUVAC4 - Have you ever had a pneumonia shot also known as a pneumococcal vaccine?
+TETANUS1 - Have you received a tetanus shot in the past 10 years? Was this Tdap, the tetanus shot that also has pertussis or whooping cough vaccine?
+HIVRISK5 - You have injected any drug other than those prescribed for you in the past year. You have been treated for a sexually transmitted disease or STD in the past year. You have given or received money or drugs in exchange for sex in the past year.
+COVIDPOS - Has a doctor, nurse, or other health professional ever told you that you tested positive for COVID 19?
