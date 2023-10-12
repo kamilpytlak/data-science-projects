@@ -177,3 +177,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+heart-disease-prediction/2022/data/processed/heart_no_nans.csv
+heart-disease-prediction/2022/data/processed/heart_with_nans.csv
